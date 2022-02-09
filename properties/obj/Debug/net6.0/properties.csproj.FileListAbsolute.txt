@@ -1,0 +1,15 @@
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\properties.exe
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\properties.deps.json
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\properties.runtimeconfig.json
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\properties.dll
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\ref\properties.dll
+D:\dotnet\assignment 4\properties\bin\Debug\net6.0\properties.pdb
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.csproj.AssemblyReference.cache
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.AssemblyInfoInputs.cache
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.AssemblyInfo.cs
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.dll
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\ref\properties.dll
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.pdb
+D:\dotnet\assignment 4\properties\obj\Debug\net6.0\properties.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\Q_3_hidingMethod.exe
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\Q_3_hidingMethod.deps.json
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\Q_3_hidingMethod.runtimeconfig.json
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\Q_3_hidingMethod.dll
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\ref\Q_3_hidingMethod.dll
+D:\dotnet\assignment 4\Q_3_hidingMethod\bin\Debug\net6.0\Q_3_hidingMethod.pdb
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.csproj.AssemblyReference.cache
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.AssemblyInfoInputs.cache
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.AssemblyInfo.cs
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.dll
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\ref\Q_3_hidingMethod.dll
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.pdb
+D:\dotnet\assignment 4\Q_3_hidingMethod\obj\Debug\net6.0\Q_3_hidingMethod.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.csproj.AssemblyReference.cache
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.AssemblyInfoInputs.cache
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.AssemblyInfo.cs
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\auto-implented-properties.exe
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\auto-implented-properties.deps.json
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\auto-implented-properties.runtimeconfig.json
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\auto-implented-properties.dll
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\ref\auto-implented-properties.dll
+D:\dotnet\assignment 4\properties\auto-implented-properties\bin\Debug\net6.0\auto-implented-properties.pdb
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.dll
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\ref\auto-implented-properties.dll
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.pdb
+D:\dotnet\assignment 4\properties\auto-implented-properties\obj\Debug\net6.0\auto-implented-properties.genruntimeconfig.cache

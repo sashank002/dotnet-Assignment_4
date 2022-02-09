@@ -1,0 +1,15 @@
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\EmployeeTest.exe
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\EmployeeTest.deps.json
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\EmployeeTest.runtimeconfig.json
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\EmployeeTest.dll
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\ref\EmployeeTest.dll
+D:\dotnet\assignment 4\EmployeeTest\bin\Debug\net6.0\EmployeeTest.pdb
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.csproj.AssemblyReference.cache
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.AssemblyInfoInputs.cache
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.AssemblyInfo.cs
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.dll
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\ref\EmployeeTest.dll
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.pdb
+D:\dotnet\assignment 4\EmployeeTest\obj\Debug\net6.0\EmployeeTest.genruntimeconfig.cache

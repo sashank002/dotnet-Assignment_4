@@ -1,0 +1,15 @@
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\Ex_2.exe
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\Ex_2.deps.json
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\Ex_2.runtimeconfig.json
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\Ex_2.dll
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\ref\Ex_2.dll
+D:\dotnet\assignment 4\Indexes\Ex_2\bin\Debug\net6.0\Ex_2.pdb
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.csproj.AssemblyReference.cache
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfoInputs.cache
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfo.cs
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.dll
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\ref\Ex_2.dll
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.pdb
+D:\dotnet\assignment 4\Indexes\Ex_2\obj\Debug\net6.0\Ex_2.genruntimeconfig.cache
